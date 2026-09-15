@@ -1,1 +1,1 @@
-# THis is my Initial Project Repo.
+# This is my Initial Project Repo.
