@@ -22,3 +22,6 @@ body{
 .title{
     font-size:12px;
 }
+#menubar{
+    background-color: black;
+}
