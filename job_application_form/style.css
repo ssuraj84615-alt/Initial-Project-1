@@ -18,6 +18,7 @@ body{
     margin-top: 50px;
     box-shadow:4px 3px 5px rgba(1,1,1,0.1);
     border-radius:10px;
+    text-align: center;
 }
 .title_small{
     font-size:20px;
@@ -66,13 +67,10 @@ button:hover{
     cursor:pointer;
 }
 .textarea_control{
-    grid-column: 1 /span 3;
-}
-.textarea_control{
-    width:100%;
+    grid-column: 1 /span 2;
 }
 @media (max-width:451px){
     .textarea_control{
-    grid-column: 1 /span 1;
+    grid-column: 1 /span 2;
     }
 }
